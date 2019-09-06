@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>venkatesh.malasani@gmail.com</contactEmail>
+    <label>CircleCi</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIDgjCCAmoCCQCZzbXGgDvx5jANBgkqhkiG9w0BAQsFADCBgjELMAkGA1UEBhMCSW4xEjAQBgNVBAgTCWthcm5hdGFrYTESMBAGA1UEBxMJYmFuZ2Fsb3JlMRAwDgYDVQQKEwdicmlsbGlvMQwwCgYDVQQLEwNjcm0xKzApBgkqhkiG9w0BCQEWHHZlbmthdGVzaC5tYWxhc2FuaUBnbWFpbC5jb20wHhcNMTkwNTA4MTE0NDE5WhcNMjAwNTA3MTE0NDE5WjCBgjELMAkGA1UEBhMCSW4xEjAQBgNVBAgTCWthcm5hdGFrYTESMBAGA1UEBxMJYmFuZ2Fsb3JlMRAwDgYDVQQKEwdicmlsbGlvMQwwCgYDVQQLEwNjcm0xKzApBgkqhkiG9w0BCQEWHHZlbmthdGVzaC5tYWxhc2FuaUBnbWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC26mR1WR7PdQtzYBChMhut5M1KeJV3E8Pl/uJsb6c8B9aszdj8+WbGkACTZ1Im1sSKkLaYp6KWkfev40h3t4w2tO08YD2+4h5lxQEcZyhOJPBoif9C0uK3TmgeV8hwxGEO5YzlXjJvdojFyAFQV6JdhfIk/8KbeCf+gq+2v/yfuczkcVFo4QzFXvr0HKhFCWFXRqLWd1q9v0qjodTFpYFfGAVgDt4rsnuYJbA8FzLqLcpiZVM1QP28NvziwAMakk9jU46fI7c/STzv/yJFcMH76T979vahmjoS5SWTUWiXR1g5//fvrItDAWPMX8CQP/qc3bQ0q/HzGyoGzyRAyPdbAgMBAAEwDQYJKoZIhvcNAQELBQADggEBACE3WMkzdDpNcXqHaYe3gCkL83Bf9oxhTyTEAgWUafGX+ZHpEh/DzBrR6mpO2ARi6cC1Gda+HIBuZBJYlXkmTgGGQRo78dECWxPY+jNDeuP87obXhG0a09C0E3jHKB4QhE3bdwlLSmMqb2LMlIBF//eWyEVllmCrDnqbRi0/TLxXkO2eSWQ9/AuDGVumr86K3CsrWhzM09f3+QVqibyUQQJe1jGrMLTs0Q/eb71I9ZoOPy1GoBQ7LSSesEKa7U7WAyRBWrHiGZ3yuRadhB5ZUIRpNrwfdYFFJmMKg/E7Up33RQxV/Dw1YLIykA9uF3h868hH71ofDCu9yiN/2igai5A=</certificate>
+        <consumerKey>3MVG9G9pzCUSkzZsEDLpLjy7nmT0.iYI.Dal2tpVtAT82NHc1MLo35cD4lR.9bNx4Qp6REakvAV9cUdHhD55i</consumerKey>
+        <scopes>Full</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
